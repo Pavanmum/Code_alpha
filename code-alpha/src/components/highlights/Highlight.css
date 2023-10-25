@@ -1,0 +1,45 @@
+.item{
+height: 100%;
+width: 100%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 1.2rem;
+    padding: 1rem
+}
+.video{
+    margin: 1rem 0;
+    padding: 1rem 1rem;
+   
+}
+
+.logo{
+    width: 24px;
+    height: 24px;
+    fill: #7A7D85;
+}
+
+.texts{
+    padding-top: 96px;
+    margin: 10px 20px;
+    /* padding: 1rem 1.2rem; */
+    
+    /* justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-items: center; */
+    padding: 3rem;
+
+}
+
+
+.high-container{
+    background-color: #f1fdf7;
+}
+
+.Rows{
+    margin-left: ;
+}

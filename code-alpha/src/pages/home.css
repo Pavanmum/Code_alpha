@@ -1,0 +1,74 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    width: 1400px;
+    /* align-items: center; */
+    justify-content: center;
+    /* background-color: #1abc9c; */
+    margin: 2rem;
+}
+
+.items{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    
+}
+
+.heading{
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    color: grey;
+}
+
+.headings{
+    /* text-align: ; */
+    font-size: 2.3rem;
+    font-weight: 700;
+    /* text-decoration-line: underline; */
+}
+
+.imgs{
+    position: relative;
+    max-width:650px;
+
+}
+
+.image-heading{
+    margin: 1rem 3rem;
+    position: absolute;
+    display: flex;
+    gap: 4rem;
+    flex-direction: column;
+    align-items: center;
+    z-index: 5;
+    color: aqua;
+}
+
+.card-text{
+    gap: 1rem;
+    display: flex;
+}
+.a{
+    width: 400px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+   background-color: antiquewhite;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 100%;
+    padding: 12px 24px;
+    position: relative;
+    text-align: center;
+    color: dodgerblue;
+    text-decoration-line: none;
+}
+
+
+/* Slider .css */
+

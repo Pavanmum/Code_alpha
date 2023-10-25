@@ -1,0 +1,33 @@
+.card{
+    width: 16rem;
+    height: 100%;
+
+}
+
+.card-img-top{
+    width: 16rem;
+    height: 16rem;
+}
+
+.card-body{
+background-color: #BCFAE5;
+}
+
+.card-title{
+    font-weight: 700;
+    display: flex;
+    /* margin: 1rem; */
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    display: flex;
+    margin: 0.3rem;
+    justify-content: center;
+}
+
+.card-text{
+    font-weight: 400;
+
+}
